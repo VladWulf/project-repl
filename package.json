@@ -1,0 +1,20 @@
+{
+  "name": "project-repl",
+  "version": "1.0.0",
+  "description": "enable repl inside your project to test your models and code",
+  "main": "index.js",
+  "scripts": {
+    "repl": "node -i -e \"$(< ./bin/console)\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladWulf/project-repl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladWulf/project-repl/issues"
+  },
+  "homepage": "https://github.com/VladWulf/project-repl#readme"
+}
