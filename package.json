@@ -4,7 +4,7 @@
   "description": "enable repl inside your project to test your models and code",
   "main": "index.js",
   "scripts": {
-    "repl": "node -i -e \"$(< ./bin/console)\""
+    "repl": "node -i -e \"$(< ./scripts/console.js)\""
   },
   "repository": {
     "type": "git",
